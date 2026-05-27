@@ -1,0 +1,13 @@
+{
+  "name": "juice-md-bot",
+  "version": "1.0.0",
+  "description": "A bot that reads .md files as dynamic commands",
+  "main": "juice.js",
+  "scripts": {
+    "start": "node juice.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.0",
+    "gray-matter": "^4.0.3"
+  }
+}
